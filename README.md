@@ -78,7 +78,7 @@ przykład zastosowania: sprawdzanie czy ukorzenione drzewa są izomorficzne (jak
 #### 3. [delete (rotacje)](https://www.geeksforgeeks.org/avl-tree-set-2-deletion/)
 #### 4. Drzewo AVL jako lista (logarytmiczny dostęp do każdego elementy)
 #### Zadania z egzaminów
-[2019 CZ1 Z1](https://gist.github.com/ithrasil/8e037787c302dd1fc5c1d50d515241ae)
+* [2019 CZ1 Z1](https://gist.github.com/ithrasil/8e037787c302dd1fc5c1d50d515241ae)
 
 ## B-drzewa
 #### 1. Definicja/struktura
