@@ -112,7 +112,7 @@ przykład zastosowania: sprawdzanie czy ukorzenione drzewa są izomorficzne (jak
 #### 4. Zamortyzowany koszt (decrement)
 #### 5. Operacja deletemin(h) (dowód, że dla każdego wierzchołka x kopca Fibb o rzędzie k, drzewko zakorzenione w x ma rozmiar wykładniczy względem k, wniosek o maksymalnym rzędzie w kopcu fibb)
 #### Zadania z egzaminów
-
+[2010 CZ1 Z3](https://github.com/ithrasil/AiSD/blob/master/Egzaminy/Cz%C4%99%C5%9B%C4%87%201/2010/3.png)
 ## Drzewa Splay
 #### 1. Operacje na drzewach samoorganizujących się (join, split, splay)
 #### 2. Implementacja splay (odpowiednie rotacje)
