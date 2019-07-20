@@ -24,12 +24,12 @@ np. [CZ1 Z10 1920]()
 #### 2. Algorytm Kruskala
 #### 3. Algorytm Prima
 #### Zadania z egzaminów
-[CZ1 Z1 2010](https://gist.github.com/ithrasil/42adf41ef307ea5d759448f331c6a422)
+[CZ1 Z1 2010](https://github.com/ithrasil/AiSD/blob/master/Egzaminy/Cz%C4%99%C5%9B%C4%87%201/2010/1.md)
 
 ## Algorytmy wyszukujące najkrótsze ścieżki w grafie
 #### 1. Algorytm Dijkstry
 #### Zadania z egzaminów
-[CZ1 Z2 2010](https://gist.github.com/ithrasil/e187acf54cf6837d7ee8c498218e0684)
+[CZ1 Z2 2010](https://github.com/ithrasil/AiSD/blob/master/Egzaminy/Cz%C4%99%C5%9B%C4%87%201/2010/2.md)
 
 ## Algorytmy zachłanne
 #### Zadania z egzaminów
