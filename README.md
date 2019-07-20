@@ -1,7 +1,6 @@
 # AiSD
 
 ## Zasady dodawania treści
-* Informacje dotyczące 
 * Należy dodawać linki do rozwiązań z egzaminu w formacie "CZa Zb c", 
 gdzie:
 'a' - odpowiednia część egzaminu, 
