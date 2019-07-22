@@ -7,8 +7,10 @@ gdzie:
 
   'b' - odpowiednia część egzaminu, 
 
-  'c' - numer zadania
+  'c' - rodzaj egzaminu: ZASADNICZY/POPRAWKOWY
+  
+  'd' - numer zadania
 
-  np. [1920 CZ1 Z10]()
+  np. [1920 CZ1 ZASADNICZY Z10]()
   
 * Format podlinkowanych rozwiązań nie ma znaczenia
