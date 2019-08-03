@@ -1,6 +1,6 @@
 # Regulamin
 * Definicje dotyczące zagadnień należy pisać w liście nienumerowanej pod nagłówkiem "Definicje"
-* Należy dodawać linki do rozwiązań z egzaminu w formacie "a CZb Zc", 
+* Należy dodawać linki do rozwiązań z egzaminu w formacie "a CZb c Zd", 
 gdzie:
 
   'a' - rok egzaminu, 
