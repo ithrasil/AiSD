@@ -5,13 +5,11 @@ gdzie:
 
   `a` - rok egzaminu, 
 
-  `b` - odpowiednia część egzaminu, 
-
   `c` - rodzaj egzaminu: Z/P czyli zasadniczy albo poprawkowy
   
   `d` - numer zadania
 
-  np. [1920 CZ1 Z Z10]()
+  np. [1920 Z Z10]()
   
 * Format podlinkowanych rozwiązań nie ma znaczenia
 * Komentarze należy dodawać z pomocą tzw 'Alert area' 
